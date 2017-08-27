@@ -8,6 +8,9 @@ Vue2.0全家桶+Mint-UI
 <h2>在线访问</h2>
 https://tiantian2000.github.io/vue-movie/
 
+<h2>项目截图<h2>
+<img src="https://github.com/tiantian2000/vue-movie/blob/gh-pages/%E7%A4%BA%E4%BE%8B.png"/>
+
 <h2>运行项目</h2>
 ### 克隆整个项目到本地
 git clone https://github.com/tiantian2000/vue-movie.git
@@ -22,7 +25,7 @@ npm install
 npm run dev
 
 
-## 说明
+### 说明
 >  如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！
 
 >  或者您可以 "follow" 一下，后继会不断开源更多的自己写的有趣的项目
