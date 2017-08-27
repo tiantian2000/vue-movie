@@ -13,16 +13,16 @@ https://tiantian2000.github.io/vue-movie/
 
 <h2> 运行项目</h2>
 
-#克隆整个项目到本地
+#克隆整个项目到本地<br>
 git clone https://github.com/tiantian2000/vue-movie.git
 
-#切换到项目所在文件夹
+#切换到项目所在文件夹<br>
 cd vue-movie
 
-#安装依赖
+#安装依赖<br>
 npm install
 
-#打开浏览器，输入localhost:8080即可访问
+#打开浏览器，输入localhost:8080即可访问<br>
 npm run dev
 
 
