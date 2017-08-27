@@ -1,27 +1,32 @@
-# vue-mintui
+<h3>项目介绍</h3>
 
-> A Vue.js project
+这是一个关于电影资讯的App,所有数据来自豆瓣电影
 
-## Build Setup
+<h3>技术栈</h3>
+Vue2.0全家桶+Mint-UI
 
-``` bash
-# install dependencies
+<h3>在线访问</h3>
+https://tiantian2000.github.io/vue-movie/
+
+<h3>运行项目</h3>
+# 克隆整个项目到本地
+git clone https://github.com/tiantian2000/vue-movie.git
+
+# 切换到项目所在文件夹
+cd vue-movie
+
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 打开浏览器，输入localhost:8080即可访问
 npm run dev
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
+# 说明
+>  如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！
 
-# run unit tests
-npm run unit
+>  或者您可以 "follow" 一下，后继会不断开源更多的自己写的有趣的项目
 
-# run all tests
-npm test
-```
+> 如有问题请直接在 Issues 中提
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
