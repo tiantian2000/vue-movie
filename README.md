@@ -33,4 +33,6 @@ npm run dev
 
 > 如有问题请直接在 Issues 中提问
 
+>感谢豆瓣接口数据(非官方):https://github.com/jokermonn/-Api/blob/master/DoubanMovie.md
+
 
