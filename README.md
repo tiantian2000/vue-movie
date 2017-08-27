@@ -12,7 +12,7 @@ https://tiantian2000.github.io/vue-movie/
 <img src="https://github.com/tiantian2000/vue-movie/blob/gh-pages/%E7%A4%BA%E4%BE%8B.png"/>
 
 <h2>运行项目</h2>
-### 克隆整个项目到本地
+### 切换到项目所在文件夹
 git clone https://github.com/tiantian2000/vue-movie.git
 
 ### 切换到项目所在文件夹
