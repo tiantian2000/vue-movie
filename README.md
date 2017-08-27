@@ -1,14 +1,14 @@
-#项目介绍
+<h2>项目介绍</h2>
 
 这是一个关于电影资讯的App,所有数据来自豆瓣电影
 
-#技术栈
+<h2>技术栈</h2>
 Vue2.0全家桶+Mint-UI
 
-#在线访问
+<h2>在线访问</h2>
 https://tiantian2000.github.io/vue-movie/
 
-<h3>运行项目</h3>
+<h2>运行项目</h2>
 # 克隆整个项目到本地
 git clone https://github.com/tiantian2000/vue-movie.git
 
@@ -22,7 +22,7 @@ npm install
 npm run dev
 
 
-# 说明
+<h2>说明<h2>
 >  如果对您有帮助，您可以点右上角 "Star" 支持一下 谢谢！
 
 >  或者您可以 "follow" 一下，后继会不断开源更多的自己写的有趣的项目
